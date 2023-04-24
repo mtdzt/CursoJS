@@ -1,0 +1,11 @@
+body {
+    background-color: aliceblue;
+    color: black;
+    
+}
+div {
+    display: inline;
+}
+div:hover {
+    color: crimson;
+}
